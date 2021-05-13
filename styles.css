@@ -1,0 +1,54 @@
+img {
+    max-width: 78%;
+    height: auto;
+    background-color: transparent;
+}
+
+h1 {
+    color: teal;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.ty {
+    color: #ff0f75;
+}
+
+h2 {
+    color: deeppink;
+    font-family: 'Anton', sans-serif;
+
+}
+
+h3 {
+    color: teal;
+    font-family: 'Syne Mono', monospace;
+
+}
+
+li {
+    color: black;
+}
+
+.Her {
+    color: RGB(255, 15, 117);
+}
+
+.H {
+    color: deeppink;
+     background-color: teal;
+}
+
+.T {
+    color: teal;
+     background-color: black;
+}
+
+.B {
+    color: black;
+    background-color: hotpink;
+}
+
+body {
+    background-image:linear-gradient(black, hotpink, #009a8c);
+
+}
